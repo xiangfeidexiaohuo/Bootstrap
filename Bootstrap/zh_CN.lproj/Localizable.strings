@@ -86,8 +86,8 @@
 "trollstore not found!" = "TrollStore 未发现！";
 "teamID in trollstore: %@" = "TrollStore teamID: %@";
 "rebuild icon cache..." = "重建图标缓存...";
-"refresh tsapps failed:%@\nERR:%@"" = "刷新巨魔应用失败:%@\n错误:%@"";
-"rebuildapps failed:%@\nERR:\n%@"" = "重建应用失败:%@\n错误:\n%@"";
+"refresh tsapps failed:%@\nERR:%@" = "刷新巨魔应用失败:%@\n错误:%@";
+"rebuildapps failed:%@\nERR:\n%@" = "重建应用失败:%@\n错误:\n%@";
 "rebuild %@" = "重建 %@";
 "rebuild finished! machoCount=%d, libCount=%d" = "重建完成！machoCount=%d, libCount=%d";
 "bootstrap server load faild(%d):\n%@\nERR:%@" = "Bootstrap 服务引导失败(%d):\n%@\n错误:%@";
