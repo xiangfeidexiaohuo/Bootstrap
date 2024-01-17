@@ -192,7 +192,7 @@ struct ContentView: View {
                             .opacity(0.5)
                     }
                     
-                    Text("UI made with love by haxi0. ♡")
+                    Text("haxi0 用 ♡ 制作的 UI")
                         .font(Font.system(size: 13))
                         .opacity(0.5)
                 }
