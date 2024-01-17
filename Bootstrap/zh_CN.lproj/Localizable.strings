@@ -1,0 +1,121 @@
+"Settings" = "设置";
+"Tweak Enable" = "插件开关";
+"OpenSSH" = "OpenSSH";
+"Respring" = "注销";
+"Rebuild Apps" = "重建应用";
+"Rebuild Icon Cache" = "重建图标缓存";
+"Reinstall Sileo & Zebra" = "重装 Sileo&Zebra";
+"Uninstall" = "卸载";
+"Credits" = "鸣谢";
+"New Version Available" = "可更新";
+"Bootstrapped" = "已引导";
+"Update" = "更新";
+"Install" = "安装";
+"Unsupported" = "暂不支持";
+"App List" = "应用列表";
+
+
+"OK" = "了解";
+"Error" = "错误";
+"Warning" = "警告";
+"Applying" = "应用中";
+"Cancel" = "取消";
+"Update" = "更新环境";
+"Bootstrapping" = "正在引导中...";
+"Uninstall" = "卸载";
+"Uninstalling" = "正在卸载中...";
+"bootstrap uninstalled" = "成功卸载 BootStrap";
+
+"Enable Tweak for App" = "启用应用插件";
+"name or identifier" = "应用名称或标识符";
+
+"Server Not Running" = "服务未运行";
+
+"for unknown reasons the bootstrap server is not running, the only thing we can do is to restart it now." = "未知原因导致 BootStrap 服务未运行, 请重启服务。";
+
+"Restart Server" = "重启服务";
+"bootstrap server restart successful" = "BootStrap 服务重启成功";
+
+"Rebuilding" = "重建中...";
+"Don't exit Bootstrap app until show the lock screen" = "锁屏前不要退出 BootStrap";
+
+"bootstrap installed" = "已安装 BootStrap";
+"bootstrap not installed" = "未安装 BootStrap";
+"system bootstrapped" = "系统已引导";
+"system not bootstrapped" = "系统未引导";
+"bootstrap server check successful" = "BootStrap 服务检查正常";
+
+"It seems that you have the Filza app installed, which may be detected as jailbroken. You can enable Tweak for it to hide it." = "看起来你安装了 Fliza, 可能会被检测到越狱, 你可以通过启用插件来隐藏它。";
+
+"Status: Rebuilding Apps" = "状态: 重建应用程序中...";
+"Status: Reinstalling Sileo" = "状态: 重装Sileo中...";
+"Status: Reinstalling Zebra" = "状态: 重装Zebra中...";
+"Sileo and Zebra reinstalled!" = "已重新安装 Sileo 和 Zebra";
+"Status: Rebuilding Icon Cache" = "状态: 重建图标缓存中...";
+
+"openssh package is not installed" = "OpenSSH 未安装";
+
+"Reboot Device" = "重启设备";
+"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "当前 BootStrap 环境和 BootStrap 应用程序不一致, 请重启设备更新环境。";
+
+"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "你的 TrollStore 版本太低, Bootstrap 仅支持TrollStore 2.0 及以上, 请更新 TrollStore 后重新尝试安装 BootStrap。";
+
+"Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device." = "你的设备貌似没有开启开发者模式\n\n请启用开发者模式并重启设备";
+
+"roothide dopamine has been installed on this device, now install this bootstrap may break it!" = "你已经安装了 RootHide 版的多巴胺, 现在安装 BootStrap 可能会破坏已安装的环境。";
+
+"You have installed an old beta version, please disable all app tweaks and reboot the device to uninstall it so that you can install the new version bootstrap." = "你安装了低版本的测试版, 请在 AppEnabler 中取消所有应用程序注入, 重启设备, 卸载环境后安装新版本的 BootStrap。";
+
+"openssh launch successful" = "OpenSSH 启动成功";
+"respring now..." = "注销中...";
+
+"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "你确定要卸载 BootStrap 吗?\n\n卸载之前请确保你已经在 AppEnabler 中关闭了所有应用注入。";
+
+
+"Default Configuration" = "默认配置";
+"copied %@ => %@" = "已复制 %@ => %@";
+"restoreApp=%@" = "恢复应用程序=%@";
+"restore %@ => %@" = "恢复 %@ => %@";
+"move failed %@" = "%@ 移动失败";
+"enableForApp %@" = "为 %@ 启用";
+"disalbeForApp %@" = "为 %@ 禁用";
+"ios-version: %@" = "iOS版本: %@";
+"device-model: %s" = "设备型号: %s";
+"app-version: %@" = "程序版本: %@";
+"boot-session: %@" = "启动会话: %@";
+"trollstore not found!" = "TrollStore 未发现！";
+"teamID in trollstore: %@" = "TrollStore teamID: %@";
+"rebuild icon cache..." = "重建图标缓存...";
+"refresh tsapps failed:%@\nERR:%@" = "刷新巨魔应用失败:%@\n错误:%@";
+"rebuildapps failed:%@\nERR:\n%@" = "重建应用失败:%@\n错误:\n%@";
+"rebuild %@" = "重建 %@";
+"rebuild finished! machoCount=%d, libCount=%d" = "重建完成！machoCount=%d, libCount=%d";
+"bootstrap server load faild(%d):\n%@\nERR:%@" = "Bootstrap 服务引导失败(%d):\n%@\n错误:%@";
+"locale=%@" = "本地=%@";
+"bootstrap server load successful" = "Bootstrap 服务引导成功";
+"install bootstrap..." = "安装 Bootstrap...";
+"can not find bootstrap file, maybe this version of the app is not for iOS%d" = "找不到 Bootstrap 程序文件，也许这个版本的应用程序不适用于 iOS%d";
+"rebuild boostrap binaries" = "重建 Boostrap 二进制文件";
+"Status: Building Base Binaries" = "状态: 构建基础二进制文件";
+"Status: Starting Bootstrapd" = "状态: 启动  Bootstrapd 中";
+"Status: Finalizing Bootstrap" = "状态: 正在完成引导 Bootstrap";
+"faild(%d):%@\nERR:%@" = "失败(%d):%@\n错误:%@";
+"Status: Installing Packages" = "状态: 安装插件包";
+"Status: Bootstrap Installed" = "状态: Bootstrap 已安装";
+"bootstrap..." = "引导...";
+"Status: Updating Symlinks" = "状态: 更新符号链接";
+"device is not strapped..." = "设备未绑定...";
+"bootstrap @ %@" = "引导 @ %@";
+"remove unfinished bootstrap %@" = "删除未完成的引导程序 %@";
+"device is strapped: %@" = "设备已绑定: %@";
+"Status: Rerandomize jbroot" = "状态: 重新排列 jbroot";
+"%@\nERR:%@" = "%@\n错误:%@";
+"Status: Bootstrap Successful" = "状态: 引导成功";
+"unbootstrap..." = "卸载 Bootstrap...";
+"remove %@ @ %@" = "移除 %@ @ %@";
+"bootstrap uninstalled!" = "Bootstrap 程序已卸载！";
+"refresh tsapps failed:%@\nERR:%@" = "刷新巨魔应用失败:%@\n错误:%@";
+"UI made with love by haxi0. ♡" = "haxi0 用 ♡ 制作的 UI";
+"Bootstrap" = "引导";
+"Version \(appVersion!)" = "版本 \(appVersion!)";
+
